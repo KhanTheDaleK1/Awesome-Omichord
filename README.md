@@ -79,15 +79,27 @@ Detailed technical specifications and resources for every production model.
 - [**Suzuki OM-108** (2024)](https://www.suzuki-music.co.jp/manual/om-108_en) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
   Current flagship flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
 
-### Modern Boutique Instruments
-- **HiChord (Pocket Audio)** - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Teensy-based handheld poly-synth with tactile strumming. #Boutique #Teensy
-  - [HiChord User Guide v2.0](https://pocketaudio.co/pages/hichord-manual)
-- **Le Strum (64pixels)** - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
-  Open-hardware MIDI chord controller. #DIY #MIDI
-  - [GitHub: Voici-Le-Strum](https://github.com/hotchk155/Voici-Le-Strum)
+### Modern Boutique & Hybrid Instruments
+High-end boutique synths and hybrid controllers that push the boundaries of chord-based interaction.
 
-### Vintage "Autochords"
+- [**HiChord** (Pocket Audio)](https://pocketaudio.co/pages/hichord-manual) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Handheld poly-synth with 7 chord buttons (Nashville Number System) and 2-track looper. Uses a joystick for chord modifications. #Boutique #Teensy4.0 #Looper
+- [**Minichord** (Benjamin Poilvé)](https://github.com/BenjaminPoilve/minichord) - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
+  Pocket-sized, open-source 3D-printed synth with 21 chord buttons and a capacitive "Harp Touch Zone." #Open-Source #Teensy4.0 #DIY
+- [**Orchid** (Telepathic Instruments)](https://telepathicinstruments.com/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  High-end boutique chord synth using a generative engine for algorithmic harmony and evolving pads. #Generative #Boutique #Synthesis
+- [**Le Grand Strum** (64pixels)](https://six4pix.com/grandstrum/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  The "big brother" to Le Strum. Pre-assembled with 36 tactile switches and a gold-plated circular arpeggio strum plate. #MIDI #Performance #Gold-Plated
+- [**Ztar Mini-Z / BabyZ** (Starr Labs)](https://www.starrlabs.com/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Professional MIDI guitars with touch-sensitive fingerboards mapped specifically for complex chord triggering. #Professional #MIDI-Guitar #MPE
+- [**Casio DG-20 / DG-10** (1987)](https://www.casio.com/jp/support/electronic-musical-instruments/manual/) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  The "Digital Guitar" classic. Uses nylon strings as triggers and a button-membrane fretboard for chord shapes. #Retro #Digital-Guitar #MIDI-Out
+- [**Yamaha EZ-AG / EZ-EG** (2002)](https://usa.yamaha.com/support/manuals/index.html) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  Teaching guitars with lighted frets and velocity-sensitive strumming strings (Wire or Plastic). #Teaching #MIDI #Lighted-Frets
+- [**Oberheim Strummer** (1991)](http://www.vintagesynth.com/oberheim/strummer.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
+  A specialized MIDI processor that re-voices keyboard chords into realistic guitar strums. #MIDI-Processor #Studio-Tool #Vintage
+
+### Vintage "Autochords" & Mechanical Origins
 - **Hammond Piper Autochord (1970)** - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
   The first "easy-play" electronic organ with automatic harmony. #History #Organ
   - [Service Manual Mirror](https://archive.org/details/hammond-piper-service-manual)
