@@ -26,6 +26,23 @@
 - **Polyphonic Synthesizers:** (e.g., Prophet-5, 1978). Chords generated via pure electricity and voltage-controlled oscillators.
 - **The Strumplate Era:** Suzuki's Omnichord (1981) introduced a tactile, "infinite sustain" method for triggering chords via a touch-sensitive plate.
 
+### V. The Suzuki Lineage & Heritage
+*Tracing the development of the touch-plate interface.*
+
+#### Early History & Predecessors
+- **The Tronichord (PC-27):** Also known as the **Portachord**, this was Suzuki’s direct predecessor to the Omnichord. It laid the groundwork for the touch-plate interface that would define the entire series.
+- **The Ricarsso Archive:** [**Video History of Suzuki**](https://youtu.be/h96Wd58Y608) — *by Ricarsso*
+  A comprehensive look at the early days of Suzuki and the development of the Omnichord line.
+
+#### Model Evolution & Preservation
+- **System Eras:** The **OM-36** and **OM-84 (System Two)** defined the 1980s analog-hybrid era. Preservationists have archived original instructional media, such as the [**1984 OMT-84 Instructional Cassette**](https://archive.org/details/suzuki-omnichord-instructional-tape).
+- **The Digital Transition:** The **OM-300** served as a final transition before the release of the **QChord (QC-1)** in 1999—a digital reimagining that featured a proprietary song cartridge slot and remained in production until 2020.
+- **Modern Revival:** The release of the **OM-108** in 2024 marks a high-fidelity return to analog-voiced synthesis, celebrating over 40 years of strumplate heritage.
+
+#### Historical Repositories
+- [**Omnichord Heaven**](https://www.omnichord-heaven.com/) - The primary archive for original brochures and technical specifications for models like the OM-36, OM-84, and OM-300.
+- [**Rob’s Omnichord Blog**](https://omnichord.blogspot.com/) - A preserved legacy blog featuring historical mock-ups of hypothetical successors to the QChord from the early 2000s.
+
 ---
 
 ## 📘 Tutorials (Learning-Oriented)
