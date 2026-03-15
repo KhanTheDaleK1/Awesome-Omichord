@@ -36,6 +36,23 @@
 
 ---
 
+## ⚠️ Power & Polarity Safety (CRITICAL)
+*Most vintage chord instruments use non-standard power polarities. Using the wrong adapter will cause permanent hardware failure.*
+
+> [!CAUTION]
+> **POLARITY MISMATCH:** Most modern 9V/12V adapters (like guitar pedal supplies) are **Center-Negative**. However, many vintage Yamaha units are **Center-Positive**, while Suzuki and Casio units are **Center-Negative**. Always verify the symbol on the chassis before plugging in.
+
+### Quick Reference Polarity Table
+| Brand | Series / Model | Voltage | Polarity | Recommended Tip |
+| :--- | :--- | :--- | :--- | :--- |
+| **Suzuki** | All Omnichords / QChord | 12V DC | **Center-Negative** | 2.1mm |
+| **Casio** | VL-1, SK-Series, PT-Series| 6V-7.5V DC | **Center-Negative** | 2.1mm |
+| **Yamaha** | QY-Series, QR-Series | 9V-12V DC | **Center-Positive** | 2.1mm |
+| **Korg** | Poly-800 | 9V DC | **Center-Negative** | 2.1mm |
+| **Roland** | Alpha Juno, PMA-5 | 9V DC | **Center-Negative** | 2.1mm |
+
+---
+
 ## 🛠️ How-To Guides (Goal-Oriented)
 *Goal-oriented resources for solving specific problems or implement features.*
 
@@ -56,16 +73,16 @@
 *Information-oriented technical specs, genealogy, and archives.*
 
 ### Suzuki OM-Series Quick Reference
-| Model | Year | Synthesis Type | Key Feature |
-| :--- | :--- | :--- | :--- |
-| **OM-27** | 1981 | Hybrid Analog | First Strumplate |
-| **OM-36** | 1984 | Digital/Analog | 84 Chord Support |
-| **OM-84** | 1984 | Digital/Analog | Chord Computer / Multi-Voice |
-| **OM-100** | 1989 | PCM Wave | Transition to Samples |
-| **OM-200M** | 1989 | PCM Wave | Native MIDI Implementation |
-| **OM-300** | 1996 | PCM Wave | 100 Voices / Pro MIDI |
-| **QChord** | 1999 | PCM Wave | QCard expansion Slot |
-| **OM-108** | 2024 | PCM/Analog Modeling | Modern MIDI / High Fidelity |
+| Model | Year | Synthesis Type | Polarity | Key Feature |
+| :--- | :--- | :--- | :--- | :--- |
+| **OM-27** | 1981 | Hybrid Analog | **Center-Negative** | First Strumplate |
+| **OM-36** | 1984 | Digital/Analog | **Center-Negative** | 84 Chord Support |
+| **OM-84** | 1984 | Digital/Analog | **Center-Negative** | Chord Computer / Multi-Voice |
+| **OM-100** | 1989 | PCM Wave | **Center-Negative** | Transition to Samples |
+| **OM-200M** | 1989 | PCM Wave | **Center-Negative** | Native MIDI Implementation |
+| **OM-300** | 1996 | PCM Wave | **Center-Negative** | 100 Voices / Pro MIDI |
+| **QChord** | 1999 | PCM Wave | **Center-Negative** | QCard expansion Slot |
+| **OM-108** | 2024 | PCM/Analog Modeling | **Center-Negative** | Modern MIDI / High Fidelity |
 
 <details>
 <summary><b>Suzuki OM-27 (1981)</b></summary>
@@ -137,20 +154,23 @@
 ### Iconic Chord Keyboards & Pocket Stations
 Quick-reference for the essential hardware that defined portable chord sequencing and sampling.
 
-| Product | Years | Type | Key Chord Feature |
-| :--- | :--- | :--- | :--- |
-| **Casio VL-1** | 1979-1984 | Calculator Synth | One-Key Sequenced Chords |
-| **Casio PT-30/50** | 1983-1987 | Compact Keyboard | Dedicated Accordion-style Chord Buttons |
-| **Korg Poly-800** | 1983-1988 | Polyphonic Synth | Dedicated "Chord Memory" Button |
-| **Casio SK-Series** | 1985-1992 | Lo-Fi Sampler | Polyphonic Sample-to-Chord Mapping |
-| **Roland Alpha Juno**| 1985-1988 | Analog Poly | House-style "One-Finger" Chord Memory |
-| **Yamaha VSS-Series**| 1987-1991 | Vocal Sampler | Harmonic Texture/Modulated Pads |
-| **Yamaha QY-Series** | 1990-2014 | Walkstation | 8-Track Pocket Chord Sequencer |
-| **Roland PMA-5** | 1995-1999 | Music PDA | Stylus-driven Touch Chord Interface |
-| **Yamaha DJX-Series**| 1998-2002 | Dance Keyboard | Rhythmic Chord Manipulation / Loops |
+| Product | Years | Type | Polarity | Key Chord Feature |
+| :--- | :--- | :--- | :--- | :--- |
+| **Casio VL-1** | 1979-1984 | Calculator Synth | **Center-Negative** | One-Key Sequenced Chords |
+| **Casio PT-30/50** | 1983-1987 | Compact Keyboard | **Center-Negative** | Dedicated Accordion-style Chord Buttons |
+| **Korg Poly-800** | 1983-1988 | Polyphonic Synth | **Center-Negative** | Dedicated "Chord Memory" Button |
+| **Casio SK-Series** | 1985-1992 | Lo-Fi Sampler | **Center-Negative** | Polyphonic Sample-to-Chord Mapping |
+| **Roland Alpha Juno**| 1985-1988 | Analog Poly | **Internal (AC)** | House-style "One-Finger" Chord Memory |
+| **Yamaha VSS-Series**| 1987-1991 | Vocal Sampler | **Center-Positive** | Harmonic Texture/Modulated Pads |
+| **Yamaha QY-Series** | 1990-2014 | Walkstation | **Center-Positive** | 8-Track Pocket Chord Sequencer |
+| **Roland PMA-5** | 1995-1999 | Music PDA | **Center-Negative** | Stylus-driven Touch Chord Interface |
+| **Yamaha DJX-Series**| 1998-2002 | Dance Keyboard | **Center-Positive** | Rhythmic Chord Manipulation / Loops |
 
 <details>
 <summary><b>Yamaha QY & QR series (Pocket Walkstations)</b></summary>
+
+> [!IMPORTANT]
+> **Power Specs:** 12V DC, **Center-Positive** (Yamaha PA-3B/PA-130 Standard).
 
 #### **Yamaha QY10** (1990-1995)
 - [**Historical Overview**](https://en.wikipedia.org/wiki/Yamaha_QY10) `[Wiki]`
@@ -177,6 +197,9 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 <details>
 <summary><b>Casio SK & PT series (Sampling & Portable)</b></summary>
+
+> [!IMPORTANT]
+> **Power Specs:** 6V to 7.5V DC, **Center-Negative** (Casio AD-1/AD-4160 Standard).
 
 #### **Casio SK-1** (1985-1988)
 - [**Historical Overview**](https://web.casio.com/emi/40th/history/sk-1.html) `[Official]`
