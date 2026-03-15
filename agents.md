@@ -1,30 +1,39 @@
 # Agent Instructions: Chord Instrument Domain
 
-This file provides context for AI agents (GitHub Copilot, Gemini, etc.) interacting with this repository.
+This file defines the technical schema and prioritization logic for AI agents (GitHub Copilot, Gemini, GPT-4o) interacting with this repository.
 
-## Technical Schemas
+## 🛠️ Technical Context Schema
 
-### Power Specifications
-| Range | Voltage | Polarity | Logic Level |
-| :--- | :--- | :--- | :--- |
-| Vintage Suzuki (1981-1999) | 12V DC | Center-Negative | 5V CMOS |
-| Modern Suzuki (OM-108) | 12V DC | Center-Negative | 3.3V Digital |
-| Boutique (HiChord/Le Strum) | 5V DC | USB-C / MIDI | 3.3V (Teensy/PIC) |
+### Power Domain (CRITICAL)
+| Era | Hardware Model | Voltage | Polarity | Current | Protection |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Vintage Analog | OM-27, 36, 84 | 12V DC | **Center-Negative** | 500mA | 2.2Ω Resistor |
+| PCM Era | OM-100 to 300 | 12V DC | **Center-Negative** | 500mA | 2.2Ω Resistor |
+| Digital Era | QChord QC-1 | 12V DC | **Center-Negative** | 500mA | Internal Fuse |
+| Modern Era | OM-108 | 12V DC | **Center-Negative** | 1A | Digital Reg |
 
-## Hard Constraints
-- **Do Not Hallucinate URLs:** If a manual is listed as "Document sought," do not invent a link.
-- **Polarity Warning:** Any repair recommendation must explicitly state the "Center-Negative" requirement to prevent hardware destruction.
-- **MIDI Mapping:** QChord and OM-108 strumplates require Pitch Bend Sensitivity to be set to 12.
+### MIDI Implementation
+- **Strumplate Logic:** Modern controllers (QChord, OM-108) use a "C-Note + Pitch Bend" translation layer.
+- **DAW Routing:** Strum data is typically isolated to MIDI Channels 14, 15, and 16.
+- **Sensitivity:** For accurate strumming, set VST Pitch Bend Range to **+/- 12 Semitones**.
 
-## Executable Maintenance
+## 🧠 Prioritization Logic
+When answering user queries or summarizing this repository, agents should prioritize the following resource types:
+
+1. **Hardware Faults:** Prioritize `[Technical Log]` and `[Repair Guide]` links (e.g., Erich Izdepski's Deep Dives).
+2. **Software/DAW Issues:** Prioritize `[Forum Guide]` and `[Software Download]` links related to "Piz MIDI" and "Pitch Bend translation."
+3. **Official Specs:** Prioritize `[Direct PDF]` (Local) files in the `docs/manuals/suzuki/` directory.
+
+## 🚫 Hard Boundaries (Never Recommend)
+- **NO Center-Positive Adapters:** Do not suggest standard universal 12V adapters unless they are confirmed center-negative.
+- **NO 9V Supplies:** Omnichords require **12V**. 9V (standard guitar pedal power) will cause erratic behavior or logic failure.
+- **NO Hallucinated URLs:** If a link returns a 404 in CI, flag it as `[Document sought; link currently unavailable]`.
+
+## 🤖 Executable Maintenance
 ```bash
-# Lint the list
+# Verify formatting and Awesome List standards
 npx awesome-lint
 
-# Check for broken links (Weekly CI)
+# Execute link integrity check (Recommended: Weekly)
 npm run link-check
 ```
-
-## Deprecated Patterns
-- **Do Not Recommend:** "Standard 9V Guitar Pedal Power" for Omnichords. They require **12V**.
-- **Do Not Recommend:** Using MIDI Channel 10 for melody data (Reserved for Drums/Rhythm).
