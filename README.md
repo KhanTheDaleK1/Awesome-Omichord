@@ -40,6 +40,16 @@
 
 ---
 
+## 🕹️ Interactive Emulators (Playful)
+*Browser-based emulations for a hands-on experience without the hardware.*
+
+- [**Online Omnichord (OM-27)**](https://onlineomnichord.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Web Emulator]`
+  A realistic recreation of the original 1981 OM-27. Best for authentic lo-fi analog sounds and keyboard-based play.
+- [**Omnichord Online (Expanded)**](https://www.omnichordonline.com/) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Web Emulator]`
+  A modern, mobile-friendly emulator featuring an expanded chord palette (Maj7, Aug, Dim). Perfect for complex songwriting.
+
+---
+
 ## ⚠️ Power & Polarity Safety (CRITICAL)
 *Most vintage chord instruments use non-standard power polarities. Using the wrong adapter will cause permanent hardware failure.*
 
@@ -71,7 +81,7 @@
 - [**Le Strum Open Source Repository**](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) `[GitHub Repo]`
   Firmware and hardware files for DIY MIDI chord control.
 - [**Modified Omnichord by Folktek**](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) `[Demo]`
-  A showcase of high-end circuit bending and modifications by Ben Houston.
+  A showcase of high-end circuit bending and artistic modifications by Ben Houston.
 
 ---
 
@@ -99,14 +109,16 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-27/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-27 Mk 1 Demo**](https://youtu.be/h1WIo7vhr1I) `[Demo]` (keyboard resource)
-- [**OM-27 Mk II Demo**](https://youtu.be/Ihkwl6G9E5k) `[Demo]` (keyboard resource)
-- [**Dabchick vs. Omnichord**](https://youtu.be/jfuSEdOdNz0) `[Demo]` (Barnaby Dixon)
-- [**OM-27 Tutorial**](https://youtu.be/C8fHvffnfiY) `[Tutorial]` (Tiger Arcade)
-- [**OM-27 Demo & Review**](https://youtu.be/zB9PtHTF2fE) `[Demo]` (Tiger Arcade)
 - [**Schematic (Primary)**](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) `[Direct PDF]`
 - [**Schematic (Mirror)**](https://www.scribd.com/document/720477103/Suzuki-Omnichord-OM-27-schematics) `[Scribd]`
 - [**Repair Deep Dive**](https://erichizdepski.wordpress.com/2020/03/28/omnichord-om-27-repair/) `[Technical Log]`
+
+#### 🎥 Media & Demos
+- [**OM-27 Mk 1 Demo**](https://youtu.be/h1WIo7vhr1I) — *by keyboard resource*
+- [**OM-27 Mk II Demo**](https://youtu.be/Ihkwl6G9E5k) — *by keyboard resource*
+- [**Dabchick vs. Omnichord**](https://youtu.be/jfuSEdOdNz0) — *by Barnaby Dixon*
+- [**OM-27 Tutorial**](https://youtu.be/C8fHvffnfiY) — *by Tiger Arcade*
+- [**OM-27 Demo & Review**](https://youtu.be/zB9PtHTF2fE) — *by Tiger Arcade*
 </details>
 
 <details>
@@ -130,11 +142,13 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-84/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) `[Direct PDF]`
-- [**OM-84 System Two Demo**](https://youtu.be/Oiz2m0AmgIQ) `[Demo]` (keyboard resource)
-- [**Modified OM-84 by Folktek**](https://youtu.be/VOqLSI2w_Ak) `[Demo]` (Folktek)
 - [**User Guide (Mirror)**](https://www.scribd.com/document/664559485/SUZUKI-OMNICHORD-om84-owners-manual) `[Scribd]`
 - [**Schematic**](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) `[Scribd]`
 - [**Repair Documentation**](https://erichizdepski.wordpress.com/2017/11/11/suzuki-omnichord-om-84-repair/) `[Technical Log]`
+
+#### 🎥 Media & Demos
+- [**OM-84 System Two Demo**](https://youtu.be/Oiz2m0AmgIQ) — *by keyboard resource*
+- [**Modified OM-84 by Folktek**](https://youtu.be/VOqLSI2w_Ak) — *by Folktek*
 </details>
 
 <details>
@@ -146,10 +160,12 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-100 Demo**](https://youtu.be/ZEW6ff9TJ4c) `[Demo]` (keyboard resource)
-- [**OM-200M Demo**](https://youtu.be/1UKz0euYX5U) `[Demo]` (keyboard resource)
-- [**Circuit Bent OM-200m**](https://youtu.be/FOVBIwl1WH0) `[Demo]` (Notch Audio)
 - [**Schematic**](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) `[Wiki]`
+
+#### 🎥 Media & Demos
+- [**OM-100 Demo**](https://youtu.be/ZEW6ff9TJ4c) — *by keyboard resource*
+- [**OM-200M Demo**](https://youtu.be/1UKz0euYX5U) — *by keyboard resource*
+- [**Circuit Bent OM-200m**](https://youtu.be/FOVBIwl1WH0) — *by Notch Audio*
 </details>
 
 <details>
@@ -161,9 +177,11 @@
 
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/om-150-250m/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Web)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-150 All Sounds**](https://youtu.be/U-xYnzPi2ng) `[Demo]` (General Jams)
-- [**OM-150 Chill Bubbles**](https://youtu.be/5CxUwLbMw_0) `[Demo]` (General Jams)
-- [**OM-250M Demo**](https://youtu.be/5axBQ83S348) `[Demo]` (keyboard resource)
+
+#### 🎥 Media & Demos
+- [**OM-150 All Sounds**](https://youtu.be/U-xYnzPi2ng) — *by General Jams*
+- [**OM-150 Chill Bubbles**](https://youtu.be/5CxUwLbMw_0) — *by General Jams*
+- [**OM-250M Demo**](https://youtu.be/5axBQ83S348) — *by keyboard resource*
 </details>
 
 <details>
@@ -175,7 +193,9 @@
 
 - [**User Guide (Primary)**](https://device.report/Omnichord/OM300) `[Web View]`
 - [**User Guide (Mirror)**](http://www.omnichord-heaven.com/owners_guides.html) `[Web Archive]`
-- [**OM-300 Demo**](https://youtu.be/KdtR_TREAyQ) `[Demo]` (keyboard resource)
+
+#### 🎥 Media & Demos
+- [**OM-300 Demo**](https://youtu.be/KdtR_TREAyQ) — *by keyboard resource*
 </details>
 
 <details>
@@ -188,9 +208,11 @@
 - [**User Guide (Local PDF)**](./docs/manuals/suzuki/qchord/owners-guide.pdf) `[Direct PDF]`
 - [**User Guide (Primary)**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) `[Direct PDF]`
 - [**User Guide (Mirror)**](https://www.qchord.net/docs/qchord-manual.html) `[HTML]`
-- [**Qchord QC-1 Demo**](https://youtu.be/eBE4HK-Q5sk) `[Demo]` (keyboard resource)
 - [**Schematic**](https://www.scribd.com/document/720477201/Suzuki-Q-Chord-Schematic) `[Scribd]`
 - [**Repair Documentation**](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) `[Repair Guide]`
+
+#### 🎥 Media & Demos
+- [**Qchord QC-1 Demo**](https://youtu.be/eBE4HK-Q5sk) — *by keyboard resource*
 </details>
 
 <details>
