@@ -31,86 +31,55 @@ A high-signal, machine-readable knowledge base for chord-driven electronic and a
 ---
 
 ## 📘 Tutorials (Learning-Oriented)
-*New to chord instruments? Start here.*
+*Learning-oriented resources for those new to chord instruments.*
 
-- [Omnichord 101: The Strumming Technique](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![stable](https://img.shields.io/badge/status-stable-green)
-  Learn the foundational "hold-and-swipe" interaction model. #Basics #Technique
-- [QChord EZ-Play Guide](https://www.manualslib.com/manual/167043/Suzuki-Qc-1.html) - ![stable](https://img.shields.io/badge/status-stable-green)
-  Introductory guide to using digital cartridges and "One-Finger" accompaniment. #EZ-Play #Beginner
+- [**Omnichord 101 - History & Technique**](https://theproaudiofiles.com/suzuki-omnichord/) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Comprehensive breakdown of history, strumplate interface, and analog circuit translation. #Basics #Technique #Article
 
 ---
 
 ## 🛠️ How-To Guides (Goal-Oriented)
-*Solve specific problems or implement features.*
+*Goal-oriented resources for solving specific problems or implementing features.*
 
-- [MIDI-fying a Vintage OM-27](https://github.com/hotchk155/Voici-Le-Strum) - ![experimental](https://img.shields.io/badge/status-experimental-orange)
-  Step-by-step on using Le Strum or Teensy clones to add MIDI to analog gear. #MIDI #DIY #Modding
-- [Correcting Power Polarity for Suzuki Hardware](http://www.omnichord-heaven.com/service/repairs.htm) - ![critical](https://img.shields.io/badge/status-critical-red)
-  How to replace the 2.2-ohm protection resistor after a polarity mismatch. #Repair #Hardware
-- [Mapping QChord Pitch Bend to VSTs](https://bome.com/support/kb/qchord-midi-setup) - ![stable](https://img.shields.io/badge/status-stable-green)
-  Technical walkthrough on setting +/- 12 semitone ranges for DAW integration. #DAW #Mapping
+- [**Mapping QChord Pitch Bend to VSTs**](https://www.kvraudio.com/forum/viewtopic.php?t=192282) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Forum guide on using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. #Software-Guide #DAW #Mapping
+- [**Correcting Power Polarity (OM-100)**](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) - ![critical](https://img.shields.io/badge/status-critical-red)
+  Step-by-step on replacing the 2.2-ohm current limiting resistor after a polarity mismatch. #Repair-Guide #Hardware
+- [**Le Strum Open Source Repository**](https://github.com/hotchk155/Voici-Le-Strum) - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
+  Open-source firmware and hardware files for DIY MIDI chord control and OM-27 modding. #Code #Schematics #DIY
 
 ---
 
 ## 📑 Reference (Information-Oriented)
-*Technical specs, schematics, and data sheets.*
+*Information-oriented technical specs, genealogy, and archives.*
 
-### Suzuki Full Model Genealogy
-Detailed technical specifications and resources for every production model.
+### Suzuki Documentation
+- [**Suzuki Full Model Genealogy**](https://www.omnichord-heaven.com/models/index.html) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Complete history, timelines, and specs for every production model from OM-series to present. #Historical-Documentation #Reference
+- [**QChord Owner's Manual**](https://www.omnichord-heaven.com/downloads/manuals/qchord-manual.pdf) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Official EZ-Play setup, chord mapping, and digital cartridge operation. #Operating-Manual #QC1
+- [**Suzuki OM-Series Manual Archive**](http://www.omnichord-heaven.com/owners_guides.html) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Central repository for vintage analog routing, schematics, and operating manuals (OM-27 through OM-300). #Service #Operating-Manuals
 
-- [**Suzuki OM-27** (1981)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The analog original. Hybrid CMOS/Analog design using the `AY-5-1317A` chip. #Analog #Vintage #OM27
-- [**Suzuki OM-36 System One** (1984)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  Introduced digital microprocessor control and expanded rhythm patterns. #Digital-Control #OM36
-- [**Suzuki OM-84 System Two** (1984)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  Added "Chord Computer" memory and dual-voice mixing capabilities. #Chord-Computer #OM84
-- [**Suzuki OM-100** (1989)](https://www.omnichord-heaven.com/manuals/OM100_200M.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The transition to PCM (Pulse Code Modulation) wave synthesis. #PCM #OM100
-- [**Suzuki OM-150** (1993)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  Expanded PCM engine with 19 voices and improved rhythm styles. #PCM #OM150
-- [**Suzuki OM-200M** (1989)](https://www.omnichord-heaven.com/manuals/OM100_200M.pdf) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  First model to feature native MIDI OUT for chord and strumplate data. #MIDI #OM200M
-- [**Suzuki OM-250M** (1993)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  MIDI-capable variant of the OM-150 with full MIDI implementation. #MIDI #OM250M
-- [**Suzuki OM-300** (1996)](http://www.omnichord-heaven.com/reference/owners_guides.htm) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The final "classic" design featuring 100 voices and advanced MIDI control. #Flagship #MIDI #OM300
-- [**Suzuki QChord QC-1** (1999)](https://www.manualslib.com/manual/167043/Suzuki-Qc-1.html) - ![stable](https://img.shields.io/badge/status-stable-green)
-  Digital successor with QCard expansion slots and modern "janky" MIDI mapping. #QChord #MIDI #QC1
-- [**Suzuki OM-108** (2024)](https://www.suzuki-music.co.jp/manual/om-108_en) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Current flagship flagship with 5-pin MIDI and analog emulation layers. #Modern #OM108
-
-### Modern Boutique & Hybrid Instruments
-High-end boutique synths and hybrid controllers that push the boundaries of chord-based interaction.
-
-- [**HiChord** (Pocket Audio)](https://manual.hichord.shop/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Handheld poly-synth with 7 chord buttons (Nashville Number System) and 2-track looper. Uses a joystick for chord modifications. #Boutique #Teensy4.0 #Looper
-- [**Minichord** (Benjamin Poilvé)](https://github.com/BenjaminPoilve/minichord) - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
-  Pocket-sized, open-source 3D-printed synth with 21 chord buttons and a capacitive "Harp Touch Zone." #Open-Source #Teensy4.0 #DIY
-- [**Orchid** (Telepathic Instruments)](https://telepathicinstruments.com/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  High-end boutique chord synth using a generative engine for algorithmic harmony and evolving pads. #Generative #Boutique #Synthesis
-- [**Le Grand Strum** (64pixels)](https://six4pix.com/grandstrum) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  The "big brother" to Le Strum. Pre-assembled with 36 tactile switches and a gold-plated circular arpeggio strum plate. #MIDI #Performance #Gold-Plated
-- [**Ztar Mini-Z / BabyZ** (Starr Labs)](https://www.starrlabs.com/product/mini-z/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
-  Professional MIDI guitars with touch-sensitive fingerboards mapped specifically for complex chord triggering. #Professional #MIDI-Guitar #MPE
-- [**Casio DG-20 / DG-10** (1987)](https://www.casio.com/intl/support/electronic-musical-instruments/manual/) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The "Digital Guitar" classic. Uses nylon strings as triggers and a button-membrane fretboard for chord shapes. #Retro #Digital-Guitar #MIDI-Out
-- [**Yamaha EZ-AG / EZ-EG** (2002)](https://usa.yamaha.com/support/manuals/index.html) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  Teaching guitars with lighted frets and velocity-sensitive strumming strings (Wire or Plastic). #Teaching #MIDI #Lighted-Frets
-- [**Oberheim Strummer** (1991)](http://www.vintagesynth.com/oberheim/strummer.php) - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  A specialized MIDI processor that re-voices keyboard chords into realistic guitar strums. #MIDI-Processor #Studio-Tool #Vintage
-
-### Vintage "Autochords" & Mechanical Origins
-- **Hammond Piper Autochord (1970)** - ![legacy](https://img.shields.io/badge/status-legacy-yellow)
-  The first "easy-play" electronic organ with automatic harmony. #History #Organ
-  - [Service Manual Mirror](https://archive.org/details/hammond-piper-service-manual)
+### Modern Boutique Instruments
+- [**Pocket Audio HiChord**](https://hichord.shop/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Handheld poly-synth utilizing the Nashville Number System and a 96kHz DSP. #Hardware #Boutique #Nashville-System
+- [**Minichord (Benjamin Poilvé)**](https://minichord.com/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Open-source, Teensy 4.0-based instrument featuring a capacitive Harp Touch Zone. #Hardware #Boutique #Teensy
+- [**Minichord GitHub Repository**](https://github.com/BenjaminPoilve/minichord) - ![open-source](https://img.shields.io/badge/status-open--source-brightgreen)
+  Direct link to source code, schematics, and 3D print STL files for the Minichord. #Code #Schematics #Open-Source
+- [**Orchid ORC-1**](https://telepathicinstruments.com/products/orchid-orc-1) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Premium boutique synth focusing on generative, algorithm-based chord voicing. #Hardware #Boutique #Generative
+- [**Le Grand Strum (64pixels)**](https://six4pix.com/product/grandstrum/) - ![maintained](https://img.shields.io/badge/status-maintained-blue)
+  Pre-assembled, gold-plated MIDI chord controller based on the original DIY Le Strum architecture. #Hardware #MIDI #Performance
 
 ---
 
 ## 🧠 Explanation (Understanding-Oriented)
-*Architecture, concepts, and background.*
+*Understanding-oriented background material and technical analysis.*
 
-- **The C-Note Strumming Quirk:** An architectural deep-dive into why chord instruments use Note 60 + Pitch Bend instead of multi-channel Note-On messages. #Architecture #MIDI
-- **AY-Series vs. PCM:** Understanding the transition from the analog logic of the OM-84 to the sample-triggered voices of the OM-300. #Synthesisi #History
+- [**OM-27 Matrix Deep Dive**](https://erichizdepski.wordpress.com/2024/06/20/om-27-deep-dive/) - ![stable](https://img.shields.io/badge/status-stable-green)
+  Tracing the matrix logic on the vintage OM-27 PCB for repair or MIDI integration. #Hardware-Analysis #Technical-Explanation
 
 ---
 
