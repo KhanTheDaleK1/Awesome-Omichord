@@ -25,6 +25,8 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run Market Scraper
+        env:
+          REVERB_API_TOKEN: ${{ secrets.REVERB_API_TOKEN }}
         run: python scraper.py
 
       - name: Commit and Push Changes
