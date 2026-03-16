@@ -6,8 +6,15 @@ import time
 import os
 import json
 
-# Your Reverb API Token (Will be passed in via GitHub Secrets)
+# Your Reverb API Token (Will be passed in via GitHub Secrets or local .env)
 REVERB_TOKEN = os.environ.get("REVERB_API_TOKEN", "")
+
+# Manually load from .env if it exists
+if not REVERB_TOKEN and os.path.exists(".env"):
+    with open(".env") as f:
+        for line in f:
+            if line.startswith("REVERB_API_TOKEN="):
+                REVERB_TOKEN = line.split("=")[1].strip()
 
 # Map your unique markdown tags to both Reverb and eBay search parameters
 INSTRUMENTS = {
@@ -50,10 +57,20 @@ def get_reverb_price(query):
         # Check if Reverb found a matching price guide
         if data.get('price_guides'):
             guide = data['price_guides'][0]
+            
             # Reverb provides a low and high estimate; we calculate the median
-            low = float(guide['estimated_value']['bottom_price'])
-            high = float(guide['estimated_value']['top_price'])
-            return round((low + high) / 2, 2)
+            est = guide.get('estimated_value', {})
+            price_low = est.get('price_low', {})
+            price_high = est.get('price_high', {})
+            
+            low = price_low.get('amount')
+            high = price_high.get('amount')
+            
+            if low is not None and high is not None:
+                return round((float(low) + float(high)) / 2, 2)
+            
+            # Fallback if the structure is still unexpected
+            print(f"  -> Could not parse estimated_value for {query}.")
             
     except requests.exceptions.RequestException as e:
         print(f"  -> Reverb API Error for {query}: {e}")
