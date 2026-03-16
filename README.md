@@ -134,6 +134,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-27/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-27. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-27. #WebArchive #Reference
 - [Schematic (Primary)](https://circuitbending.miraheze.org/wiki/File:OM27_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary technical schematic for the OM-27 hardware. #DirectPDF #Reference
+- [Chord Generator Schematic (Local PDF)](./docs/manuals/suzuki/om-27/OM-27%20chordgenerator_schematics.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local technical datasheet and schematic for the AY-5-1317A chord generator IC used in the OM-27. #DirectPDF #Reference
 - [Schematic (Mirror)](https://www.scribd.com/document/720477103/Suzuki-Omnichord-OM-27-schematics) ![status-stable](https://img.shields.io/badge/status-stable-green) - Mirror host for the OM-27 technical schematic. #Scribd #Reference
 - [Repair Deep Dive](https://erichizdepski.wordpress.com/2020/03/28/omnichord-om-27-repair/) ![status-stable](https://img.shields.io/badge/status-stable-green) - High-fidelity hardware repair log for the Suzuki OM-27. #TechnicalLog #Reference
 
