@@ -33,6 +33,7 @@
 Founded in 1953 in Hamamatsu, Japan, Suzuki is a world leader in harmonicas, melodicas, and educational instruments. Though sharing a hometown and name, Suzuki Musical Instrument Corporation is **not related** to Suzuki Motor Corporation. In the late 1970s, seeking an entry into the booming portable electronic instrument market, Suzuki developed the Tronichord/Portachord PC-27 (the OM-27's direct predecessor) as an "electronic autoharp" that required no tuning or maintenance.
 
 #### The Evolution of the Strumplate
+- **Tronichord / Portachord PC-27 (1981):** The direct "proto-Omnichord" that introduced the first-generation touchplate technology; marketed as an electronic autoharp.
 - **OM-27 (1981):** Debuted at Winter NAMM as a consumer novelty for music therapy and education. It introduced the **Sonic Strings** capacitive touchplate, a revolutionary interface that felt like "nothing else."
 - **OM-36 (1983):** Expanded to full chromatic coverage with 12 root notes.
 - **OM-84 (1984/85):** The "System Two" model that changed everything by adding **84 chords** and a multi-voice synthesis engine, transitioning the device from a toy to a serious musical tool.
@@ -103,6 +104,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 ### Suzuki OM-Series Quick Reference
 | Model | Year | Synthesis Type | Polarity | Key Feature |
 | :--- | :--- | :--- | :--- | :--- |
+| **PC-27** | 1981 | Hybrid Analog | **Center-Negative** | Pre-Omnichord Prototype |
 | **OM-27** | 1981 | Hybrid Analog | **Center-Negative** | First Strumplate |
 | **OM-36** | 1984 | Digital/Analog | **Center-Negative** | 84 Chord Support |
 | **OM-84** | 1984 | Digital/Analog | **Center-Negative** | Chord Computer / Multi-Voice |
@@ -111,6 +113,17 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **OM-300** | 1996 | PCM Wave | **Center-Negative** | 100 Voices / Pro MIDI |
 | **QChord** | 1999 | PCM Wave | **Center-Negative** | QCard expansion Slot |
 | **OM-108** | 2024 | PCM/Analog Modeling | **Center-Negative** | Modern MIDI / High Fidelity |
+
+<details>
+<summary><b>Suzuki Tronichord / Portachord PC-27 (1981)</b></summary>
+
+- **Production:** 1980 – 1982 (Discontinued)
+- **MSRP:** $150 (Launch) | $593.10 (Inflation) | **Current Market:** <!-- PRICE_TRONICHORD_START -->$522.50<!-- PRICE_TRONICHORD_END -->
+- **Notable Fact:** The "zero-generation" Omnichord; marketed as an electronic autoharp. The Portachord was the export version.
+
+- [User Guide (Local PDF)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - Local PDF owner's guide for the Suzuki PC-27. #DirectPDF #Reference
+- [Portachord Walkthrough](https://youtu.be/8P8fIe1tYxk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual overview and sound demonstration of the PC-27. #Video #Reference
+</details>
 
 <details>
 <summary><b>Suzuki OM-27 (1981)</b></summary>
@@ -433,7 +446,6 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 ### Vintage "Autochords" & Mechanical Origins
 - [Hammond Piper Autochord (1970)](https://archive.org/details/hammond-piper-service-manual) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - The first instrument to feature "automatic chording," famously endorsed by Duke Ellington. #WebArchive #Reference
-- [Suzuki Tronichord (PC-27)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) | **MSRP:** $150 (Launch) | $593.10 (Inflation) | **Current Market:** <!-- PRICE_TRONICHORD_START -->$522.50<!-- PRICE_TRONICHORD_END --> - The direct precursor to the Omnichord, extremely rare and marketed as the Portachord. #DirectPDF #Reference
 
 ---
 
