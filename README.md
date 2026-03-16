@@ -56,7 +56,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 *Learning-oriented resources for those new to chord instruments.*
 
 - [Omnichord 101 - History & Technique](https://theproaudiofiles.com/suzuki-omnichord/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive breakdown of history, strumplate interface, and analog circuit translation. #Article #Tutorial
-- [The Failed Instrument That Became an Ambient Legend](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) - Hainbach explores the history and unique sound of the Omnichord. #Documentary #Tutorial
+- [Everything you've ever wanted to know about the Omnichord (Aryy)](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A comprehensive beginner's guide to the entire Omnichord ecosystem. #Video #Tutorial
 - [Omnichord Content Hub (Omnihub)](https://sites.google.com/view/omnihub/home) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - The central directory for the Omnichord community, linking to Discord, Reddit, and specialized technical resources. #CommunityHub #Tutorial
 
 ---
@@ -94,7 +94,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Piz MIDI Utilities (midiPitchBendToNotes)](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - Essential VSTs for QChord DAW integration. #SoftwareDownload #HowTo
 - [Correcting Power Polarity (OM-100)](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) ![status-critical](https://img.shields.io/badge/status-critical-red) - Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch. #RepairGuide #HowTo
 - [Le Strum Open Source Repository](https://github.com/hotchk155/Voici-Le-Strum) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Firmware and hardware files for DIY MIDI chord control. #GitHubRepo #HowTo
-- [Modified Omnichord by Folktek](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A showcase of high-end circuit bending and artistic modifications by Ben Houston. #Demo #HowTo
 
 ---
 
@@ -122,6 +121,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** The "zero-generation" Omnichord; marketed as an electronic autoharp. The Portachord was the export version.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - Local PDF owner's guide for the Suzuki PC-27. #DirectPDF #Reference
+- [A Failed Instrument Turned Desired Ambient Synthesizer (Hainbach)](https://youtu.be/ZEW6ff9TJ4c) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth exploration of the Tronichord PC-27's history and unique sound. #Video #Reference
 - [Portachord Walkthrough](https://youtu.be/8P8fIe1tYxk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual overview and sound demonstration of the PC-27. #Video #Reference
 </details>
 
@@ -139,11 +139,10 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Repair Deep Dive](https://erichizdepski.wordpress.com/2020/03/28/omnichord-om-27-repair/) ![status-stable](https://img.shields.io/badge/status-stable-green) - High-fidelity hardware repair log for the Suzuki OM-27. #TechnicalLog #Reference
 
 #### 🎥 Media & Demos
+- [Most Dreamy Instrument I Own | OM-27 (Tiger Arcade)](https://youtu.be/1UKz0euYX5U) ![status-stable](https://img.shields.io/badge/status-stable-green) - High-quality demo and review of the original OM-27. #Video #Reference
 - [OM-27 Mk 1 Demo](https://youtu.be/h1WIo7vhr1I) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the OM-27 Mk 1. #Video #Reference
 - [OM-27 Mk II Demo](https://youtu.be/Ihkwl6G9E5k) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the OM-27 Mk II. #Video #Reference
 - [Dabchick vs. Omnichord](https://youtu.be/jfuSEdOdNz0) ![status-stable](https://img.shields.io/badge/status-stable-green) - Artistic performance featuring the Suzuki Omnichord. #Video #Reference
-- [OM-27 Tutorial](https://youtu.be/C8fHvffnfiY) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth tutorial on playing and using the OM-27. #Video #Reference
-- [OM-27 Demo & Review](https://youtu.be/zB9PtHTF2fE) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive review and demonstration of the OM-27's features. #Video #Reference
 </details>
 
 <details>
@@ -156,6 +155,9 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-36/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-36. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-36. #WebArchive #Reference
 - [Schematic Note](https://www.reddit.com/r/Omnichord/comments/13wdvvf/om36_schematic/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical note regarding the OM-36 schematic logic. #TechnicalNote #Reference
+
+#### 🎥 Media & Demos
+- [Suzuki Omnichord OM-36 Functionality Test (SabreSour)](https://youtu.be/5axBQ83S348) ![status-stable](https://img.shields.io/badge/status-stable-green) - Raw audio reference for the original System One / OM-36. #Video #Reference
 </details>
 
 <details>
@@ -172,8 +174,8 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Repair Documentation](https://erichizdepski.wordpress.com/2017/11/11/suzuki-omnichord-om-84-repair/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed technical repair log for the Suzuki OM-84. #TechnicalLog #Reference
 
 #### 🎥 Media & Demos
+- [The Omnichord's Unique Charm (Jorb)](https://youtu.be/C8fHvffnfiY) ![status-stable](https://img.shields.io/badge/status-stable-green) - High-fidelity exploration of the OM-84's technical and musical depth. #Video #Reference
 - [OM-84 System Two Demo](https://youtu.be/Oiz2m0AmgIQ) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the OM-84 System Two. #Video #Reference
-- [Modified OM-84 by Folktek](https://youtu.be/VOqLSI2w_Ak) ![status-stable](https://img.shields.io/badge/status-stable-green) - Showcase of custom circuit-bent modifications for the OM-84. #Video #Reference
 </details>
 
 <details>
@@ -188,6 +190,8 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Schematic](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki hosting technical schematics for the OM-series. #Wiki #Reference
 
 #### 🎥 Media & Demos
+- [1989 Suzuki Omnichord OM-100 (keyboard resource)](https://youtu.be/KdtR_TREAyQ) ![status-stable](https://img.shields.io/badge/status-stable-green) - High-fidelity capture of the System 100 (OM-100) digital synthesis engine. #Video #Reference
+- [1989 Suzuki Omnichord OM-200m (keyboard resource)](https://youtu.be/eBE4HK-Q5sk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio reference for the first model with native MIDI integration. #Video #Reference
 - [OM-100 Demo](https://youtu.be/ZEW6ff9TJ4c) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-100. #Video #Reference
 - [OM-200M Demo](https://youtu.be/1UKz0euYX5U) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-200M. #Video #Reference
 - [Circuit Bent OM-200m](https://youtu.be/FOVBIwl1WH0) ![status-stable](https://img.shields.io/badge/status-stable-green) - Demonstration of a custom circuit-bent Suzuki OM-200M. #Video #Reference
@@ -206,7 +210,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 #### 🎥 Media & Demos
 - [OM-150 All Sounds](https://youtu.be/U-xYnzPi2ng) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive sound demonstration of the Suzuki OM-150. #Video #Reference
 - [OM-250m by keyboard resource](https://youtu.be/5CxUwLbMw_0) ![status-stable](https://img.shields.io/badge/status-stable-green) - Creative performance featuring the Suzuki OM-250m's sound set. #Video #Reference
-- [OM-250M Demo](https://youtu.be/5axBQ83S348) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-250M. #Video #Reference
 </details>
 
 <details>
@@ -222,6 +225,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [User Guide PDF (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - High-fidelity PDF owner's manual for the Suzuki OM-300. #SoughtDocument #Reference
 
 #### 🎥 Media & Demos
+- [1995 Suzuki OM-300 Omnichord (keyboard resource)](https://youtu.be/VOqLSI2w_Ak) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct capture of the rare flagship OM-300 soundset. #Video #Reference
 - [OM-300 Demo](https://youtu.be/KdtR_TREAyQ) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki OM-300. #Video #Reference
 </details>
 
@@ -239,7 +243,6 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Popsmusic QChord DIY Repair Help](https://www.popsmusic.com/qchord-do-it-yourself-repair-help.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community-driven repair guide for the Suzuki QChord. #RepairGuide #Reference
 
 #### 🎥 Media & Demos
-- [Qchord QC-1 Demo](https://youtu.be/eBE4HK-Q5sk) ![status-stable](https://img.shields.io/badge/status-stable-green) - Audio and visual demonstration of the Suzuki QChord QC-1. #Video #Reference
 </details>
 
 <details>
@@ -256,6 +259,8 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [Juno Daily Review](https://www.juno.co.uk/plus/2024/07/11/suzuki-omnichord-om-108-review/) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth critical review focusing on the analog revival and studio utility. #Article #Reference
 
 #### 🎥 Media & Demos
+- [Omnichord OM-84 vs OM-108 (Sammy Margolis)](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A detailed comparison between the vintage System Two and the modern 2024 revival. #Video #Reference
+- [Suzuki Omnichord OM-108 Deep Dive (Gimelwaves)](https://youtu.be/zB9PtHTF2fE) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive technical comparison between the OM-108 and the digital QChord QC-1. #Video #Reference
 - [Jenny Omnichord - First Play](https://youtu.be/mF8y-36911c) ![status-stable](https://img.shields.io/badge/status-stable-green) - Professional artist demonstration and first impressions of the 2024 revival. #Video #Reference
 - [Lullatone - OM-108 Introduction](https://youtu.be/A2R1yFp05iM) ![status-stable](https://img.shields.io/badge/status-stable-green) - Aesthetic and functional overview of the OM-108 features and sound. #Video #Reference
 - [Notch Audio - Sub-Voice Demo](https://youtu.be/k2q2CgO8n8s) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical run-through of the new layering capabilities and drum sounds. #Video #Reference
