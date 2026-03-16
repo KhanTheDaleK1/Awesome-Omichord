@@ -219,10 +219,10 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $300+ (Launch) | $624.82 (Inflation) | **Current Market:** <!-- PRICE_OM-300_START -->$660.00<!-- PRICE_OM-300_END -->
 - **Notable Fact:** Extremely rare final original model; its drum preset is the foundation of the Gorillaz hit "Clint Eastwood."
 
+- [User Guide (Local PDF)](./docs/manuals/suzuki/om-300/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-300. #DirectPDF #Reference
 - [User Guide (Primary)](https://device.report/Omnichord/OM300) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-viewable owner's guide for the Suzuki OM-300. #WebView #Reference
 - [User Guide (Mirror)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive mirror for the Suzuki OM-300 owner's guide. #WebArchive #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-300. #SoughtDocument #Reference
-- [User Guide PDF (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - High-fidelity PDF owner's manual for the Suzuki OM-300. #SoughtDocument #Reference
 
 #### 🎥 Media & Demos
 - [1995 Suzuki OM-300 Omnichord (keyboard resource)](https://youtu.be/VOqLSI2w_Ak) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct capture of the rare flagship OM-300 soundset. #Video #Reference
