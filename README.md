@@ -249,8 +249,16 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $800+ (Launch) | $832.10 (Inflation) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
 - **Notable Fact:** A 70th-anniversary tribute that returns to analog-voiced synthesis while expanding to 108 chords.
 
+- [Official Product Page](https://www.suzuki-music.co.jp/en/products/15001/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
 - [Official Manual (Web)](https://www.suzuki-music.co.jp/manual/om-108_en) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-108. #DirectPDF #Reference
+- [OM-108 Resource Library (Omnichord Heaven)](https://omnichord-heaven.com/models/om-108) ![status-stable](https://img.shields.io/badge/status-stable-green) - Dedicated site for manuals, history, and in-depth reviews of the OM-108. #CommunityHub #Reference
+- [Juno Daily Review](https://www.juno.co.uk/plus/2024/07/11/suzuki-omnichord-om-108-review/) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth critical review focusing on the analog revival and studio utility. #Article #Reference
+
+#### 🎥 Media & Demos
+- [Jenny Omnichord - First Play](https://youtu.be/mF8y-36911c) ![status-stable](https://img.shields.io/badge/status-stable-green) - Professional artist demonstration and first impressions of the 2024 revival. #Video #Reference
+- [Lullatone - OM-108 Introduction](https://youtu.be/A2R1yFp05iM) ![status-stable](https://img.shields.io/badge/status-stable-green) - Aesthetic and functional overview of the OM-108 features and sound. #Video #Reference
+- [Notch Audio - Sub-Voice Demo](https://youtu.be/k2q2CgO8n8s) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical run-through of the new layering capabilities and drum sounds. #Video #Reference
 </details>
 
 ### Iconic Chord Keyboards & Pocket Stations
