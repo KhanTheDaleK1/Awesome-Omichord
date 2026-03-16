@@ -252,18 +252,18 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $800+ (Launch) | $832.10 (Inflation) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
 - **Notable Fact:** A 70th-anniversary tribute that returns to analog-voiced synthesis while expanding to 108 chords.
 
-- [Official Product Page](https://www.suzuki-music.co.jp/en/products/15001/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
+- [Official Product Page (Landing)](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
 - [Official Manual (Web)](https://www.suzuki-music.co.jp/manual/om-108_en) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-108. #DirectPDF #Reference
-- [OM-108 Resource Library (Omnichord Heaven)](https://omnichord-heaven.com/models/om-108) ![status-stable](https://img.shields.io/badge/status-stable-green) - Dedicated site for manuals, history, and in-depth reviews of the OM-108. #CommunityHub #Reference
-- [Juno Daily Review](https://www.juno.co.uk/plus/2024/07/11/suzuki-omnichord-om-108-review/) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth critical review focusing on the analog revival and studio utility. #Article #Reference
+- [Sweetwater Quickstart Guide](https://www.sweetwater.com/sweetcare/articles/suzuki-omnichord-om-108-quickstart-guide/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive setup and feature guide for new OM-108 owners. #Article #Reference
+- [The Kyoto Connection Review](https://thekyotoconnection.com/omnichord-om-108-review/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Artistic and technical deep-dive into the OM-108's capabilities for ambient music. #Article #Reference
 
 #### 🎥 Media & Demos
-- [Omnichord OM-84 vs OM-108 (Sammy Margolis)](https://youtu.be/R2GSSyd4liw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A detailed comparison between the vintage System Two and the modern 2024 revival. #Video #Reference
-- [Suzuki Omnichord OM-108 Deep Dive (Gimelwaves)](https://youtu.be/zB9PtHTF2fE) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive technical comparison between the OM-108 and the digital QChord QC-1. #Video #Reference
-- [Jenny Omnichord - First Play](https://youtu.be/mF8y-36911c) ![status-stable](https://img.shields.io/badge/status-stable-green) - Professional artist demonstration and first impressions of the 2024 revival. #Video #Reference
-- [Lullatone - OM-108 Introduction](https://youtu.be/A2R1yFp05iM) ![status-stable](https://img.shields.io/badge/status-stable-green) - Aesthetic and functional overview of the OM-108 features and sound. #Video #Reference
-- [Notch Audio - Sub-Voice Demo](https://youtu.be/k2q2CgO8n8s) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical run-through of the new layering capabilities and drum sounds. #Video #Reference
+- [Sonicstate NAMM 2024 Demo](https://youtu.be/v_8WvowXBak) ![status-stable](https://img.shields.io/badge/status-stable-green) - The original 2024 reveal featuring Suzuki's Yu Horiuchi. #Video #Reference
+- [Lullatone - The NEW Omnichord](https://youtu.be/8-9g8RasOGT) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed sound exploration and feature overview by Sean from Lullatone. #Video #Reference
+- [Kyoto Connection - Ambient Deep Dive](https://youtu.be/FRJL1v6emVW) ![status-stable](https://img.shields.io/badge/status-stable-green) - Demonstrating the OM-108 in a cinematic and experimental context. #Video #Reference
+- [Sweetwater - OM-108 Feature Walkthrough](https://youtu.be/o1Mtg2O4x1n) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical breakdown of chords, layering, and MIDI functions. #Video #Reference
+- [Perfect Circuit - OM-108 Overview](https://youtu.be/R4Uebvt-kv_) ![status-stable](https://img.shields.io/badge/status-stable-green) - Product showcase highlighting the revival of the analog sound engine. #Video #Reference
 </details>
 
 ### Iconic Chord Keyboards & Pocket Stations
