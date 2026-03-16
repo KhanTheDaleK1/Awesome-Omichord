@@ -30,12 +30,12 @@
 *The cultural and technical evolution of the Omnichord lineage.*
 
 #### Origins: The Suzuki Musical Instrument Corporation
-Founded in 1953 in Hamamatsu, Japan, Suzuki is a world leader in harmonicas, melodicas, and educational instruments. Though sharing a hometown and name, Suzuki Musical Instrument Corporation is **not related** to Suzuki Motor Corporation. In the late 1970s, seeking to compete with the Casio VL-Tone, Suzuki developed an "electronic autoharp" that required no tuning or maintenance.
+Founded in 1953 in Hamamatsu, Japan, Suzuki is a world leader in harmonicas, melodicas, and educational instruments. Though sharing a hometown and name, Suzuki Musical Instrument Corporation is **not related** to Suzuki Motor Corporation. In the late 1970s, seeking an entry into the booming portable electronic instrument market, Suzuki developed the Tronichord/Portachord PC-27 (the OM-27's direct predecessor) as an "electronic autoharp" that required no tuning or maintenance.
 
 #### The Evolution of the Strumplate
 - **OM-27 (1981):** Debuted at Winter NAMM as a consumer novelty for music therapy and education. It introduced the **Sonic Strings** capacitive touchplate, a revolutionary interface that felt like "nothing else."
 - **OM-36 (1983):** Expanded to full chromatic coverage with 12 root notes.
-- **OM-84 (1984/85):** The "System Two" model that changed everything by adding **84 chords** and the first **MIDI output**, transitioning the device from a toy to a serious musical tool.
+- **OM-84 (1984/85):** The "System Two" model that changed everything by adding **84 chords** and a multi-voice synthesis engine, transitioning the device from a toy to a serious musical tool.
 - **OM-300 (1996):** The classic flagship, featuring multiple voice presets (Harp, Organ, Guitar, etc.) and stereo sound.
 - **QChord QC-1 (1999):** A Y2K-era reinvention featuring song cartridges and an LCD display, positioned as an entertainment product.
 - **OM-108 (2024):** A modern revival adding USB-C, built-in effects, and 108 chords while preserving the original analog-voiced character.
@@ -81,7 +81,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 | **Casio** | VL-1, SK-Series, PT-Series| 6V-7.5V DC | **Center-Negative** | 2.1mm |
 | **Yamaha** | QY-Series, QR-Series | 9V-12V DC | **Center-Positive** | 2.1mm |
 | **Korg** | Poly-800 | 9V DC | **Center-Negative** | 2.1mm |
-| **Roland** | Alpha Juno, PMA-5 | 9V DC | **Center-Negative** | 2.1mm |
+| **Roland** | PMA-5 | 9V DC | **Center-Negative** | 2.1mm |
 
 ---
 
@@ -379,7 +379,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 #### **Yamaha DJX-II** (2000-2002)
 - **Production:** 2000 – 2002 (Discontinued)
 - **MSRP:** ~$450 (Launch) | $853.96 (Inflation) | **Current Market:** <!-- PRICE_DJX2_START -->TBD<!-- PRICE_DJX2_END -->
-- **Notable Fact:** Notable for lacking standard MIDI note transmission; it only transmits system clock and data.
+- **Notable Fact:** Its MIDI note transmission is locked to its internal pattern-based engine rather than acting as a standard MIDI keyboard controller.
 - [Historical Overview](https://synthmania.com/2005/02/22/yamaha-djx-iib/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Archive resource detailing the unique architecture of the DJX-II series. #WebArchive #Reference
 - [Operating Manual](https://usa.yamaha.com/files/download/other_assets/2/319592/DJXIIE.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web-based operating manual for the Yamaha DJX-II. #DirectPDF #Reference
 </details>
@@ -390,7 +390,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 #### **Korg Poly-800** (1983-1987)
 - **Production:** 1983 – 1987 (Discontinued)
 - **MSRP:** $795 (Launch) | $2,608.35 (Inflation) | **Current Market:** <!-- PRICE_POLY800_START -->$355.00<!-- PRICE_POLY800_END -->
-- **Notable Fact:** The first programmable poly-synth under $1k ($3,280.94 Inflation); features pegs for use with a guitar strap as a keytar.
+- **Notable Fact:** The first programmable poly-synth under $1,000 (Launch) | $3,280.94 (Inflation); features pegs for use with a guitar strap as a keytar.
 - [Historical Overview](https://en.wikipedia.org/wiki/Korg_Poly-800) ![status-stable](https://img.shields.io/badge/status-stable-green) - Wikipedia history of the Korg Poly-800's accessible polyphonic synthesis. #Wiki #Reference
 - [Service Manual](http://www.synfo.nl/servicemanuals/Korg/POLY-800_SERVICE_MANUAL.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Direct technical service manual for repairing the Korg Poly-800. #DirectPDF #Reference
 - [Modification (Moog Slayer)](https://www.synthtopia.com/content/2008/01/29/korg-poly-800-moog-slayer-mod/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical guide for implementing the famous Moog-style filter mod. #HowTo #Reference
@@ -400,7 +400,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 - **MSRP:** ~$850 (Launch) | $2,534.35 (Inflation) | **Current Market:** <!-- PRICE_POLY800_2_START -->$355.00<!-- PRICE_POLY800_2_END -->
 - **Notable Fact:** Updated the original with a digital delay and an improved filter, often preferred by modern collectors.
 - [Historical Overview](https://www.vintagesynth.com/korg/poly800.php) ![status-stable](https://img.shields.io/badge/status-stable-green) - Combined community wiki for the Poly-800 series specifications. #Wiki #Reference
-- [Battery Leak Repair Guide](https://www.youtube.com/watch?v=korg-poly-800-battery-fix) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual technical guide for repairing internal battery damage in legacy synths. #Video #Reference
+- [Battery Leak Repair Guide](https://www.youtube.com/watch?v=yRra0hDjsbw) ![status-stable](https://img.shields.io/badge/status-stable-green) - Visual technical guide for repairing internal battery damage in legacy synths. #Video #Reference
 
 #### **Roland Alpha Juno-1** (1985-1987)
 - **Production:** 1985 – 1987 (Discontinued)
@@ -433,7 +433,7 @@ Quick-reference for the essential hardware that defined portable chord sequencin
 
 ### Vintage "Autochords" & Mechanical Origins
 - [Hammond Piper Autochord (1970)](https://archive.org/details/hammond-piper-service-manual) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - The first instrument to feature "automatic chording," famously endorsed by Duke Ellington. #WebArchive #Reference
-- [Suzuki Tronichord (PC-27)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) | **Current Market:** <!-- PRICE_TRONICHORD_START -->$522.50<!-- PRICE_TRONICHORD_END --> - The direct precursor to the Omnichord, extremely rare and marketed as the Portachord. #DirectPDF #Reference
+- [Suzuki Tronichord (PC-27)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) | **MSRP:** $150 (Launch) | $593.10 (Inflation) | **Current Market:** <!-- PRICE_TRONICHORD_START -->$522.50<!-- PRICE_TRONICHORD_END --> - The direct precursor to the Omnichord, extremely rare and marketed as the Portachord. #DirectPDF #Reference
 
 ---
 
