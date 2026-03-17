@@ -67,13 +67,16 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 ---
 
-## 🛠️ How-To Guides (Goal-Oriented)
+<details>
+<summary><b>🛠️ How-To Guides (Goal-Oriented)</b></summary>
+
 *Goal-oriented resources for solving specific problems or implement features.*
 
 - [Mapping QChord Pitch Bend to VSTs](https://www.kvraudio.com/forum/viewtopic.php?t=192282) ![status-stable](https://img.shields.io/badge/status-stable-green) - Using Piz MIDI Plugins to translate aggressive strum pitch bends into standard MIDI notes. #ForumGuide #HowTo
 - [Using Q-Chord MIDI in a DAW](https://www.reddit.com/r/Omnichord/comments/174m7d5/using_qchord_midi_in_a_daw_my_way/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed routing for isolating strumplate channels (14, 15, 16). #RedditGuide #HowTo
 - [Piz MIDI Utilities (midiPitchBendToNotes)](https://www.paulcecchettimusic.com/piz-midi-utilities-archived-download-links/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - Essential VSTs for QChord DAW integration. #SoftwareDownload #HowTo
 - [Correcting Power Polarity (OM-100)](https://www.keithrobertmurray.com/articles/omnichord-om-100-ps.html) ![status-critical](https://img.shields.io/badge/status-critical-red) - Step-by-step on replacing the 2.2-ohm resistor after a polarity mismatch. #RepairGuide #HowTo
+</details>
 
 ---
 
@@ -258,7 +261,9 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 ---
 
-## 🎨 Omnichord-Inspired Projects
+<details>
+<summary><b>🎨 Omnichord-Inspired Projects</b></summary>
+
 *Community-driven recreations and modern tributes that keep the strumplate alive.*
 
 ### Interactive Emulators (Software)
@@ -268,6 +273,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 ### Modern Hardware Tributes
 - [Minichord (Benjamin Poilvé)](https://minichord.com/) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - An elegant, compact digital reimagining of the classic chord harp. #Hardware #Hardware
 - [Minichord GitHub Repository](https://github.com/BenjaminPoilve/minichord) ![status-open-source](https://img.shields.io/badge/status-open--source-brightgreen) - Open source hardware and firmware for the Minichord project. #GitHubRepo #Hardware
+</details>
 
 ---
 
