@@ -55,12 +55,15 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 ---
 
-## 📘 Tutorials (Learning-Oriented)
+<details>
+<summary><b>📘 Tutorials (Learning-Oriented)</b></summary>
+
 *Learning-oriented resources for those new to chord instruments.*
 
 - [Omnichord 101 - History & Technique](https://theproaudiofiles.com/suzuki-omnichord/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Comprehensive breakdown of history, strumplate interface, and analog circuit translation. #Article #Tutorial
 - [Everything you've ever wanted to know about the Omnichord (Aryy)](https://youtu.be/R7FUiJN9Ehw) ![status-stable](https://img.shields.io/badge/status-stable-green) - A comprehensive beginner's guide to the entire Omnichord ecosystem. #Video #Tutorial
 - [Omnichord Content Hub (Omnihub)](https://sites.google.com/view/omnihub/home) ![status-maintained](https://img.shields.io/badge/status-maintained-blue) - The central directory for the Omnichord community, linking to Discord, Reddit, and specialized technical resources. #CommunityHub #Tutorial
+</details>
 
 ---
 
