@@ -256,7 +256,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 
 - **Production:** 2024 – Present (Active)
 - **MSRP:** $800+ (Launch) | $832.10 (Inflation) | **Current Market:** <!-- PRICE_OM-108_START -->$645.00<!-- PRICE_OM-108_END -->
-- **Notable Fact:** A 70th-anniversary tribute that returns to analog-voiced synthesis while expanding to 108 chords.
+- **Notable Fact:** While the OM-108 is a digital instrument, Suzuki went to great lengths to recreate the specific analog-voiced sounds of the 1981 OM-84. It uses a "PCM" sound engine that mimics the warm, lo-fi aesthetic of the original hardware rather than trying to sound like a high-end modern synthesizer.
 
 - [Official Product Page (Landing)](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Official Suzuki landing page for the OM-108. #Official #Reference
 - [Official Manual (Local PDF)](./docs/manuals/suzuki/om-108/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's manual for the Suzuki OM-108. #DirectPDF #Reference
