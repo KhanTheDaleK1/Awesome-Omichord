@@ -172,7 +172,8 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-84/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-84. #DirectPDF #Reference
 - [User Guide (Web)](https://www.popsmusic.com/uploads/3/0/6/8/30682235/om84_owners_manual.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Primary web owner's manual for the Suzuki OM-84. #DirectPDF #Reference
 - [User Guide (Mirror)](https://www.scribd.com/document/664559485/SUZUKI-OMNICHORD-om84-owners-manual) ![status-stable](https://img.shields.io/badge/status-stable-green) - Mirror host for the OM-84 owner's manual. #Scribd #Reference
-- [Schematic](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) ![status-stable](https://img.shields.io/badge/status-stable-green) - Technical schematic for the Suzuki OM-84. #Scribd #Reference
+- [Schematic (Local Image)](./docs/manuals/suzuki/om-84/OM-84_schematics.jpg) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local technical schematic for the Suzuki OM-84. #Hardware #Reference
+- [Schematic (Mirror)](https://www.scribd.com/document/720477279/Suzuki-Omnichord-OM-84-schematics) ![status-stable](https://img.shields.io/badge/status-stable-green) - Mirror host for the OM-84 technical schematic. #Scribd #Reference
 - [Repair Documentation](https://erichizdepski.wordpress.com/2017/11/11/suzuki-omnichord-om-84-repair/) ![status-stable](https://img.shields.io/badge/status-stable-green) - Detailed technical repair log for the Suzuki OM-84. #TechnicalLog #Reference
 
 #### 🎥 Media & Demos
@@ -188,7 +189,7 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **Notable Fact:** The OM-200M was the first model to feature native MIDI Out, enabling control of external synths.
 
 - [User Guide (Local PDF)](./docs/manuals/suzuki/om-100-200m/owners-guide.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local PDF owner's guide for the Suzuki OM-100 and 200M. #DirectPDF #Reference
-- [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki OM-100 / OM-200M. #SoughtDocument #Reference
+- [Schematic (Local PDF)](./docs/manuals/suzuki/om-100-200m/OM100_Schematic.pdf) ![status-stable](https://img.shields.io/badge/status-stable-green) - Local technical schematic for the Suzuki OM-100 / OM-200M hardware. #DirectPDF #Reference
 - [User Guide (Web)](http://www.omnichord-heaven.com/owners_guides.html) ![status-stable](https://img.shields.io/badge/status-stable-green) - Web archive owner's guide for the Suzuki OM-100 and 200M. #WebArchive #Reference
 - [Schematic](https://circuitbending.miraheze.org/wiki/Suzuki_Omnichord) ![status-stable](https://img.shields.io/badge/status-stable-green) - Community wiki hosting technical schematics for the OM-series. #Wiki #Reference
 
