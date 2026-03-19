@@ -1,0 +1,23 @@
+{
+  "name": "awesome-omnichord",
+  "version": "1.0.0",
+  "description": "A curated collection of resources for the world's most dreamy chord instrument.",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanTheDaleK1/Awesome-Omichord.git"
+  },
+  "keywords": [
+    "awesome",
+    "omnichord",
+    "suzuki",
+    "music"
+  ],
+  "author": "KhanTheDaleK1",
+  "license": "CC0-1.0"
+}
