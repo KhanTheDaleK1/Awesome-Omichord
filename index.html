@@ -245,7 +245,7 @@
 
     <main>
         <header>
-            <div class="lcd-display">STRUMPLATE ARCHIVE v2026.0</div>
+            <div class="lcd-display">AWESOME OMNICHORD</div>
             <p style="margin-top: 1.5rem; font-size: 1.2rem;">The curated collection of resources for the world's most dreamy chord instrument.</p>
         </header>
 
@@ -317,6 +317,17 @@
         <section id="community">
             <h2>💬 Community & Forums</h2>
             <p>Connect with other Omnichord enthusiasts, share your music, and get help with repairs across the web.</p>
+            
+            <div class="resource-card" style="background: var(--om-lcd); color: var(--om-lcd-text); border: 2px solid var(--om-brown);">
+                <h3 style="margin-top: 0; font-family: var(--font-retro);">LIVE DISCUSSION BOARD</h3>
+                <div id="discussions-container" style="font-family: var(--font-retro); font-size: 0.9rem;">
+                    <p>Fetching latest topics from GitHub...</p>
+                </div>
+                <div style="margin-top: 1rem; text-align: right;">
+                    <a href="https://github.com/KhanTheDaleK1/Awesome-Omichord/discussions/new/choose" class="tag" style="background: var(--om-brown); color: white; text-decoration: none; padding: 5px 15px;">+ NEW DISCUSSION</a>
+                </div>
+            </div>
+
             <div class="resource-card">
                 <a href="https://www.reddit.com/r/Omnichord/">r/Omnichord (Reddit)</a>
                 <p>The primary subreddit for sharing setups, music, and finding vintage units. <span class="tag">#Forum</span> <span class="tag">#Community</span></p>
@@ -345,6 +356,46 @@
     </main>
 
     <script>
+        // Fetch GitHub Discussions via RSS-to-JSON proxy
+        async function fetchDiscussions() {
+            const repo = 'KhanTheDaleK1/Awesome-Omichord';
+            const rssUrl = `https://github.com/${repo}/discussions.atom`;
+            const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+            const container = document.getElementById('discussions-container');
+
+            try {
+                const response = await fetch(proxyUrl);
+                const data = await response.json();
+
+                if (data.status === 'ok') {
+                    container.innerHTML = '';
+                    // Take the first 5 discussions
+                    data.items.slice(0, 5).forEach(item => {
+                        const date = new Date(item.pubDate).toLocaleDateString();
+                        const topicDiv = document.createElement('div');
+                        topicDiv.style.padding = '8px 0';
+                        topicDiv.style.borderBottom = '1px solid rgba(0,0,0,0.1)';
+                        topicDiv.style.display = 'flex';
+                        topicDiv.style.justifyContent = 'space-between';
+                        topicDiv.style.alignItems = 'center';
+
+                        topicDiv.innerHTML = `
+                            <a href="${item.link}" target="_blank" style="color: var(--om-lcd-text); text-decoration: none; flex: 1; margin-right: 10px;">> ${item.title}</a>
+                            <span style="opacity: 0.6; font-size: 0.8rem;">${date}</span>
+                        `;
+                        container.appendChild(topicDiv);
+                    });
+                } else {
+                    container.innerHTML = '<p>No recent discussions found. Be the first!</p>';
+                }
+            } catch (error) {
+                console.error('Error fetching discussions:', error);
+                container.innerHTML = '<p>Unable to load live feed. <a href="https://github.com/KhanTheDaleK1/Awesome-Omichord/discussions" style="color: inherit;">View on GitHub</a></p>';
+            }
+        }
+
+        fetchDiscussions();
+
         // Simple scroll spy for active state
         const sections = document.querySelectorAll('section');
         const navLinks = document.querySelectorAll('.strum-bar');
