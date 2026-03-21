@@ -105,6 +105,18 @@ Originally marketed alongside karaoke machines, the Omnichord was adopted by "ou
 - **MSRP:** $150 (Launch) | $593.10 (Inflation) | **Current Market:** <!-- PRICE_TRONICHORD_START -->$522.50<!-- PRICE_TRONICHORD_END -->
 - **Notable Fact:** The "zero-generation" Omnichord; marketed as an electronic autoharp. The Portachord was the export version.
 
+#### Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **Synthesis** | Analog Subtractive |
+| **Chord Buttons** | 27 chords (Major, Minor, 7th) for 9 keys |
+| **Strumplate** | Horizontal SonicStrings, 4 Octaves |
+| **Rhythms** | None (Drone and Strumming only) |
+| **Controls** | Chord Volume, SonicStrings Volume (with Power Switch), Master Tuning |
+| **Special** | Instant Off touch pad |
+| **Power** | 12V DC (Center-Negative) or 8 x AA batteries |
+| **Auxiliary Jacks** | 1/4" Mono Output, DC Inlet |
+
 - [User Guide (Local PDF)](./docs/manuals/suzuki/tronichord-pc-27/owners-guide.pdf) ![status-legacy](https://img.shields.io/badge/status-legacy-yellow) - Local PDF owner's guide for the Suzuki PC-27. #DirectPDF #Reference
 - [Schematic (Requested)](https://github.com/KhanTheDaleK1/Awesome-Omichord/issues) ![status-critical](https://img.shields.io/badge/status-critical-red) - [Document sought; link currently unavailable] - Technical schematic for the Suzuki Tronichord PC-27. #SoughtDocument #Reference
 - [A Failed Instrument Turned Desired Ambient Synthesizer (Hainbach)](https://youtu.be/ZEW6ff9TJ4c) ![status-stable](https://img.shields.io/badge/status-stable-green) - In-depth exploration of the Tronichord PC-27's history and unique sound. #Video #Reference
